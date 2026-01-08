@@ -9,7 +9,7 @@ Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) 
 ## We're expert at
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,bots,gradle,github,powershell,py,maven" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,bots,gradle,github,powershell,py,git" />
   </a>
 </p>
 <!--
