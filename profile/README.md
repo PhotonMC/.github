@@ -12,7 +12,6 @@ Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) 
     <img src="https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,gradle,github,powershell,py" />
   </a>
 </p>
----
 <!--
 **aquafrosted/README.md** 
 
