@@ -7,7 +7,7 @@ We’re developers, designers, and Minecraft fans committed to creating the ulti
 ## [We're closed source](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md)
 Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) to **truly** understand why we're closed source.
 ## We're expert at
-[![Our Skills](https://skillicons.dev/icons?i=html,css,js,discordjs,discord,gradle,github,powershell,py)](https://skillicons.dev)
+[![Our Skills](https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,gradle,github,powershell,py)](https://skillicons.dev)
 ---
 <!--
 **aquafrosted/README.md** 
