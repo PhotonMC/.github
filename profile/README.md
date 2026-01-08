@@ -12,7 +12,7 @@ Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) 
     <img src="https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,bots,gradle,github,powershell,py,git,kotlin,twitter,ts,vscode,visualstudio,windows&perline=9&theme=dark" />
   </a>
 </p>
-<p> <a href="https://skillicons.dev"> <img src="https://assets.guns.lol/online.png"/> </a> </p>
+<h4> <a href="https://skillicons.dev"> <img src="https://assets.guns.lol/online.png"/> </a> </h4>
 <!--
 **aquafrosted/README.md** 
 
