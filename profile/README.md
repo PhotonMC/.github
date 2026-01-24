@@ -18,7 +18,6 @@
 We are a dedicated team focused on pushing the boundaries of Minecraft modding. Whether you're here for our tools, our community, or our mods, we're glad to have you.
 
 *   **Spotted a bug?** Please [open a report](https://discord.gg/QFwuEbESYe) on our Discord.
-*   **Why Closed Source?** We have specific reasons for our development model. [Read our statement here](https://github.com/PhotonMC/.github/blob/main/profile/closed.md).
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
