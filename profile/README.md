@@ -1,11 +1,11 @@
-![Banner](https://net.aquafrost.ct.ws/assets/aquabanner.png)
-# Hey 👋, welcome to AquaFrost
+![Banner](https://raw.githubusercontent.com/PhotonMC/.github/refs/heads/main/profile/photonbanner.png)
+# Hey 👋, welcome to PhotonMC
 We’re developers, designers, and Minecraft fans committed to creating the ultimate modded experience.
-- 👍 Want to learn more about us? [Check out our website (under construction!)](https://af.now.ct.ws/)
+- 👍 Want to learn more about us? [Check out our website (under construction!)](https://m.photon.ct.ws/)
 - 🐛 Did you run into a bug? [Open a bug report on our discord.](https://discord.gg/QFwuEbESYe)
 - 🦩 Feeling social? [Join our discord community](https://discord.gg/QFwuEbESYe)
-## [We're closed source](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md)
-Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) to **truly** understand why we're closed source.
+## [We're closed source](https://github.com/PhotonMC/.github/blob/main/profile/closed.md)
+Read [this](https://github.com/PhotonMC/.github/blob/main/profile/closed.md) to **truly** understand why we're closed source.
 ## We're good at
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,7 +13,7 @@ Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) 
   </a>
 </p>
 <!--
-**aquafrosted/README.md** 
+**photonmc/README.md** 
 
 
 
