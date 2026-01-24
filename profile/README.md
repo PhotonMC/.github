@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhotonMC/.github/refs/heads/main/profile/photonbanner.png" alt="PhotonMC Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/PhotonMC/.github/refs/heads/main/profile/banner.png" alt="PhotonMC Banner" width="100%">
 </p>
 
 <p align="center">
