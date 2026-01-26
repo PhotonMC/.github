@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://m.photon.ct.ws/"><img src="https://img.shields.io/badge/Website-Connect-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://photon.qzz.io/"><img src="https://img.shields.io/badge/Website-Connect-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://discord.gg/QFwuEbESYe"><img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/PhotonMC/.github/blob/main/profile/closed.md"><img src="https://img.shields.io/badge/Source-Closed-red?style=for-the-badge&logo=github&logoColor=white" alt="Closed Source"></a>
 </p>
